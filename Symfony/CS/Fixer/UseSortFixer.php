@@ -33,7 +33,6 @@ class UseSortFixer implements FixerInterface
 
     public function getLevel()
     {
-        // defined in PSR-2 2.2
         return FixerInterface::ALL_LEVEL;
     }
 
